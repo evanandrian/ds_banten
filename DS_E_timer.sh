@@ -8,5 +8,5 @@ done
 git pull
 "E:\ds_banten\DesktopService.exe" $1 &
 
-start chrome http://transmedic.co.id:2222/app/Login
+start chrome http://192.168.1.229:2222/app/Login
 

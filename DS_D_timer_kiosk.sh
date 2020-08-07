@@ -8,4 +8,4 @@ done
 git pull
 "D:\ds_banten\DesktopService.exe" $1 &
 
-start chrome http://transmedic.co.id:2222/kiosk/
+start chrome http://192.168.1.229:2222/kiosk/
